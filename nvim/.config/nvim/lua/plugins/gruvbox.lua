@@ -3,7 +3,6 @@ return {
   -- Configure LazyVim to load gruvbox
   {
     "LazyVim/LazyVim",
-    enabled = false,
     opts = {
       colorscheme = "gruvbox",
     },
